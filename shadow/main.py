@@ -1,1 +1,3 @@
-print("shadow"*7)
+import menn
+
+print(menn.cem(20, 30))
