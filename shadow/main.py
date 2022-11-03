@@ -1,3 +1,3 @@
 import menn
 
-print(menn.cem(20, 30))
+print(menn.cem(24, 30))
