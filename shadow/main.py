@@ -1,0 +1,1 @@
+print("shadow"*7)
